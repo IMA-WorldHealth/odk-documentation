@@ -1,0 +1,5 @@
+# Remplir un formulaire
+
+Avant de commencer à remplir un formulaire, il faut d’abord régler la date et l’heure du téléphone. Une fois téléchargés, les formulaires sont désormais disponibles dans ODK, au niveau des téléphones Android, dans la section « Remplir un formulaire » du menu principal (figure 5). Il est maintenant possible de se rendre sur le terrain et de remplir un formulaire, et ce, même sans connexion internet (en mode avion). Une fois dans la section « Remplir un formulaire », il suffit de cliquer sur le formulaire désiré et celui-ci s'ouvre. Les formulaires sont conçus de façon à guider l'utilisateur de la manière la plus intuitive possible à travers les différentes questions. Il est important de noter que les questions obligatoires sont précédées d’un astérisque rouge (*) voir (figure 5 à droite).
+
+Deux autres boutons principaux sont présents sur la fenêtre (figure 6). Tout d’abord, la disquette (encerclé en bleu) permet, à tout moment, de sauvegarder le contenu du formulaire.
